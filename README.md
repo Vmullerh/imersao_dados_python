@@ -11,8 +11,8 @@ Este projeto tem como objetivo demonstrar o fluxo completo de análise de dados 
 
 ## 📌 Funcionalidades
 - **Exploração Inicial**: Análise de estatísticas descritivas e distribuição dos dados.
-- **Limpeza de Dados**: Tratamento de valores missing, outliers e normalização.
-- **Visualizações**: Gráficos (histogramas, scatter plots, heatmaps) com Matplotlib/Seaborn.
+- **Limpeza de Dados**: Tratamento de valores nulos, outliers e normalização.
+- **Visualizações**: Gráficos (gráfuco de barras, histogramas, box plots, mapas) com Matplotlib/Seaborn.
 - **Dashboard Interativo**: Painel dinâmico criado com Streamlit para visualização dos insights.
 
 ## 🛠 Tecnologias Utilizadas
